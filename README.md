@@ -13,5 +13,12 @@ NombreRecursoNombreClaseNombreObjeto
 IDs:
 NombreLayout-TipoItem-NombreObjeto
 
+Dependencias para agregar:
+Navigation
+Retrofit
+Json
+Glide
+
+
 
 
