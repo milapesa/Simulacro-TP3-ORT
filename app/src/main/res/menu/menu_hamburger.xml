@@ -6,7 +6,7 @@
         android:icon="@drawable/hamburger_icon_profile"
         android:title="Perfil" />
     <item
-        android:id="@+id/actConfig"
+        android:id="@+id/fragConfig"
         android:icon="@drawable/hamburguer_icon_config"
         android:title="Configuracion" />
 </menu>

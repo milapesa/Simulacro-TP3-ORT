@@ -15,4 +15,9 @@
         android:name="com.example.simulacro_tp3_ort.ui.views.fragments.FragProfile"
         android:label="lay_fragment_profile"
         tools:layout="@layout/lay_fragment_profile" />
+    <fragment
+        android:id="@+id/fragConfig"
+        android:name="com.example.simulacro_tp3_ort.ui.views.fragments.FragConfig"
+        android:label="lay_fragment_config"
+        tools:layout="@layout/lay_fragment_config" />
 </navigation>
