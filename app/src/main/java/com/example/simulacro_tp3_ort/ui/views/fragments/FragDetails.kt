@@ -35,7 +35,7 @@ class FragDetails : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_frag_details, container, false)
+        return inflater.inflate(R.layout.lay_fragment_details, container, false)
     }
 
     companion object {

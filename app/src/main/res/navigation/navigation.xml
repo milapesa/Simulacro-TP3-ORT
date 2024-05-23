@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
              xmlns:app="http://schemas.android.com/apk/res-auto"
-             android:id="@+id/navigation">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/fragHome">
 
+    <fragment
+        android:id="@+id/fragHome"
+        android:name="com.example.simulacro_tp3_ort.ui.views.fragments.FragHome"
+        android:label="lay_fragment_home"
+        tools:layout="@layout/lay_fragment_home" />
+    <fragment
+        android:id="@+id/fragProfile"
+        android:name="com.example.simulacro_tp3_ort.ui.views.fragments.FragProfile"
+        android:label="lay_fragment_profile"
+        tools:layout="@layout/lay_fragment_profile" />
 </navigation>
