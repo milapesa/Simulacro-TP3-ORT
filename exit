@@ -1,0 +1,47 @@
+[33mcommit 67fd022dc78b012ac1d59bc7457d247a871957dc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/preference-screen[m[33m, [m[1;32mpreference-screen[m[33m, [m[1;32mhome-screen[m[33m)[m
+Author: lucasmoix <129341492+lucasmoix@users.noreply.github.com>
+Date:   Thu May 23 13:54:20 2024 -0300
+
+    agregamos la pantalla de configuraciones
+
+[33mcommit 48eea5e85662c14084d6cbc368602d37ccf5d716[m[33m ([m[1;31morigin/navigation-hamburger-bar[m[33m, [m[1;32mnavigation-hamburger-bar[m[33m)[m
+Author: lucasmoix <129341492+lucasmoix@users.noreply.github.com>
+Date:   Thu May 23 11:23:20 2024 -0300
+
+    agregacion del menu hamburguesa
+
+[33mcommit aafb9254ed506998fd24ae25df4a91571e8d5ec7[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: lucasmoix <129341492+lucasmoix@users.noreply.github.com>
+Date:   Mon May 20 18:49:38 2024 -0300
+
+    esctructura inicial
+
+[33mcommit 444c1a4903e231b3b6edcb6a160bc9f6bf45163e[m
+Author: lucasmoix <129341492+lucasmoix@users.noreply.github.com>
+Date:   Mon May 20 18:26:31 2024 -0300
+
+    agregamos dependencias
+
+[33mcommit 17c8d7ce9447b44718d2ce296bcc12c6055cba44[m
+Author: Mila Pesa Mazzola <milapesamazzola@gmail.com>
+Date:   Mon May 20 22:03:11 2024 +0100
+
+    Update README.md
+
+[33mcommit d3cdbd483f30ace944b60eea68b54edc0e411c3b[m
+Author: Mila Pesa Mazzola <milapesamazzola@gmail.com>
+Date:   Mon May 20 21:58:30 2024 +0100
+
+    Update README.md
+
+[33mcommit e5dae9c58d265e73296ad5a8935c0de0234cddd6[m
+Author: lucasmoix <129341492+lucasmoix@users.noreply.github.com>
+Date:   Mon May 20 17:50:33 2024 -0300
+
+    commit inicial
+
+[33mcommit f1038c39452067e3cd43fb91495d6a70347034ba[m
+Author: lucasmoix <129341492+lucasmoix@users.noreply.github.com>
+Date:   Mon May 20 17:50:09 2024 -0300
+
+    first commit

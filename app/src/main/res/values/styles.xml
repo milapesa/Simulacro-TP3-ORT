@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing styles -->
+
+    <!-- Define a new style for Dog TextView -->
+    <style name="DogCardTextStyle">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">@font/card_font</item>
+    </style>
+</resources>
