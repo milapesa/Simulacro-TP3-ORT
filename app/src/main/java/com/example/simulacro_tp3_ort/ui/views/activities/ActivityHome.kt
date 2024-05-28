@@ -1,13 +1,10 @@
-package com.example.simulacro_tp3_ort.ui.views.activites
+package com.example.simulacro_tp3_ort.ui.views.activities
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.navigation.fragment.NavHostFragment
-import androidx.navigation.ui.NavigationUI
 import androidx.navigation.ui.setupWithNavController
 import com.example.simulacro_tp3_ort.R
 import com.google.android.material.navigation.NavigationView
